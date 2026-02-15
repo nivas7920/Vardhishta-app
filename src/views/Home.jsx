@@ -114,7 +114,7 @@ export default function Home() {
             >
               <Box
                 component="img"
-                src={logo}
+                src="/logo.png"
                 alt="Vardhishtha Logo"
                 sx={{
                   height: { xs: 180, sm: 240, md: 320 },

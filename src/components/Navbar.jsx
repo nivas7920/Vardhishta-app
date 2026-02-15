@@ -67,7 +67,7 @@ export default function Navbar() {
           >
             <Box
               component="img"
-              src={logo}
+              src="/logo.png"
               alt="Vardhishtha Logo"
               sx={{
                 width: { xs: 60, md: 80 },
