@@ -12,7 +12,7 @@ import {
 import MenuIcon from "@mui/icons-material/Menu";
 import { useState } from "react";
 import { Link, useLocation } from "react-router-dom";
-import logo from "../assets/LOGO.png"
+import logo from "../assets/logo.png"
 
 const menuItems = [
   { label: "Home", path: "/" },
