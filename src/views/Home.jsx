@@ -4,7 +4,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { useEffect, useState } from "react";
 
 import heroBg from "../assets/royal.webp";
-import logo from "../assets/logo.png";
+// import logo from "../assets/logo.png";
 
 import PremiumRange from "../components/PremiumRange";
 import WhatsAppButton from "../components/WhatsAppButton";
